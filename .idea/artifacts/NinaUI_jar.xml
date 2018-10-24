@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="NinaUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NinaUI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="NinaUI.jar">
+        <element id="module-output" name="NinaUI" />
+        <element id="module-output" name="NinaManager" />
+        <element id="module-output" name="NinaEngine" />
+        <element id="module-output" name="Nina-Ex01" />
+      </element>
+    </root>
+  </artifact>
+</component>
